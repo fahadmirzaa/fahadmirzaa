@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fahadmirzaa](https://github.com/fahadmirzaa)
+- 👨‍💻 All of my projects are available at [(https://github.com/fahadmirzaa?tab=repositories)
 
 - 💬 Ask me about **MEAN , Javascript**
 
